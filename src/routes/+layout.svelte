@@ -2,7 +2,7 @@
 	import '../app.css';
 	import Footer from '../lib/Footer.svelte';
 	import Navbar from '../lib/Navbar.svelte';
-  let theme = "dracula"
+  let theme = "dark"
 </script>
 
 <div data-theme={theme}>
